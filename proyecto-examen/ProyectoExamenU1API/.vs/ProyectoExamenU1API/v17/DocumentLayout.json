@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\services\\qualificationsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\services\\qualificationsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\database\\entities\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\database\\entities\\qualification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\seeddata\\qualifications.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\seeddata\\qualifications.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\services\\interfaces\\iqualifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\services\\interfaces\\iqualifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\dtos\\qualification\\qualificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\dtos\\qualification\\qualificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\services\\interfaces\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\services\\interfaces\\istudentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\dtos\\qualification\\qualificationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\dtos\\qualification\\qualificationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\dtos\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\dtos\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\examen-poo-u1\\proyecto-examen\\proyectoexamenu1api\\proyectoexamenu1api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452EC19-1EE3-43A6-924E-DEFFFB392CAF}|ProyectoExamenU1API\\ProyectoExamenU1API.csproj|solutionrelative:proyectoexamenu1api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QualificationsServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Services\\QualificationsServices.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Services\\QualificationsServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Services\\QualificationsServices.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Services\\QualificationsServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:31:44.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentsService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Services\\Interfaces\\IStudentsService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Services\\Interfaces\\IStudentsService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Services\\Interfaces\\IStudentsService.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Services\\Interfaces\\IStudentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:06:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQualifications.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Services\\Interfaces\\IQualifications.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Services\\Interfaces\\IQualifications.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Services\\Interfaces\\IQualifications.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Services\\Interfaces\\IQualifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:06:40.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QualificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Dtos\\Qualification\\QualificationDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Dtos\\Qualification\\QualificationDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Dtos\\Qualification\\QualificationDto.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Dtos\\Qualification\\QualificationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:43:27.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QualificationCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Dtos\\Qualification\\QualificationCreateDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Dtos\\Qualification\\QualificationCreateDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Dtos\\Qualification\\QualificationCreateDto.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Dtos\\Qualification\\QualificationCreateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:45:28.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Dtos\\Student\\StudentDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Dtos\\Student\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Dtos\\Student\\StudentDto.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Dtos\\Student\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T00:44:31.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Qualification.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Database\\Entities\\Qualification.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Database\\Entities\\Qualification.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Database\\Entities\\Qualification.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Database\\Entities\\Qualification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:05:38.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "qualifications.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\SeedData\\qualifications.json",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\SeedData\\qualifications.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\SeedData\\qualifications.json",
+              "RelativeToolTip": "ProyectoExamenU1API\\SeedData\\qualifications.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T23:22:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Startup.cs",
+              "RelativeDocumentMoniker": "ProyectoExamenU1API\\Startup.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\examen-poo-u1\\proyecto-examen\\ProyectoExamenU1API\\ProyectoExamenU1API\\Startup.cs",
+              "RelativeToolTip": "ProyectoExamenU1API\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:51:42.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

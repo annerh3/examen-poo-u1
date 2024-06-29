@@ -1,0 +1,26 @@
+[
+  {
+    "SubjectId": "19bc32d6-8f35-4282-8e4f-80c063b52472",
+    "StudentId": "e6b2c3a4-2f59-4d3e-9b78-70dce965cd10", // Abel
+    "Subject": "Matematicas",
+    "Score": "90"
+  },
+  {
+    "SubjectId": "a777850c-5de1-4093-96c3-2844fc639cb8",
+    "StudentId" : "e6b2c3a4-2f59-4d3e-9b78-70dce965cd10", // Abel
+    "Subject" : "Español",
+    "Score" : "65"
+  },
+  {
+    "SubjectId": "19bc32d6-8f35-4282-8e4f-80c063b52472",
+    "StudentId": "b00292be-9e39-43b6-9218-a2034478e42c", // Travis
+    "Subject": "Matematicas",
+    "Score": "70"
+  },
+  {
+    "SubjectId": "a777850c-5de1-4093-96c3-2844fc639cb8", // Travis
+    "StudentId": "b00292be-9e39-43b6-9218-a2034478e42c",
+    "Subject": "Español",
+    "Score": "80"
+  }
+]

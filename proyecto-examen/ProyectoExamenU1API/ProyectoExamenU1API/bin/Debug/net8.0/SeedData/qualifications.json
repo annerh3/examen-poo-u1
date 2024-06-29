@@ -1,0 +1,15 @@
+[
+  {
+    "SubjectId": "19bc32d6-8f35-4282-8e4f-80c063b52472",
+    "StudentId": "e6b2c3a4-2f59-4d3e-9b78-70dce965cd10",
+    "Subject": "Matematicas",
+    "LastName": "Tesfaye",
+    "Score": "90"
+  },
+  {
+    "SubjectId": "038290ea-53af-4732-86ad-715a31b18abf",
+    "StudentId": "b00292be-9e39-43b6-9218-a2034478e42c",
+    "Subject": "Ingles",
+    "Score": "70"
+  }
+]
