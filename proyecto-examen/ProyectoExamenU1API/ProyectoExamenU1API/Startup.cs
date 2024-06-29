@@ -19,6 +19,7 @@ namespace ProyectoExamenU1API
 
             // Add custom services
             services.AddTransient<IStudentsService, StudentsService>();
+            services.AddTransient<IQualificationsService, QualificationsServices>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
